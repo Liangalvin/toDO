@@ -1,0 +1,21 @@
+{
+  "name": "reactApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-libs-browser": "^0.5.2",
+    "react": "^0.13.3",
+    "webpack": "^1.9.8"
+  },
+  "devDependencies": {
+    "gulp-react-bundle": "^0.1.11",
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.9.8"
+  }
+}
